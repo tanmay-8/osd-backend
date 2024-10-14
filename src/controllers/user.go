@@ -130,7 +130,7 @@ func (u UserService) GetEmail(name string) string {
       href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap"
       rel="stylesheet"
     />
-    <title>LinuxDiary 4.0</title>
+    <title>Open Source Day</title>
 
     <!-- <title>Responsive GIF Display</title>
     <style>
@@ -274,7 +274,7 @@ func (u UserService) GetEmail(name string) string {
                     <strong>Open Source Day 2K24</strong> was successful! 🎉<br /><br />
                     The event will be held on
                     <strong><em>20th of October 2024</em></strong
-                    >, focusing on Git, Github, CI / CD.🧡
+                    >, focusing on Git, Github & CI / CD.🧡
                   </p>
                   You will have access to all the sessions and activities we
                   have scheduled for the event as a registered participant.
@@ -296,9 +296,9 @@ func (u UserService) GetEmail(name string) string {
                       Open Source Day 2K24 Website:</strong
                     >
                     <a
-                      href="https://osd-2-k24-frontend.vercel.app/"
+                      href="https://osd2k24.wcewlug.org/"
                       style="font-size: 17px"
-                      >OpenSourceDay2K24.wcewlug.org</a
+                      >osd2k24.wcewlug.org</a
                     >
                     <br />
                     Do share this with your friends and join us for an exciting
